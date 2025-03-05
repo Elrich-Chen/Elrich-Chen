@@ -26,4 +26,4 @@ I'm a passionate developer with a keen interest in building innovative solutions
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/elrich-chen-188702304)
-[![Personal Website](https://img.shields.io/badge/-Website-FF7139?logo=firefox&logoColor=white&style=flat-square)](https://your-website.com)
+[![Personal Website](https://img.shields.io/badge/-Website-FF7139?logo=firefox&logoColor=white&style=flat-square)](https://elrich-chen.github.io/portfolio/)
