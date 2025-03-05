@@ -1,6 +1,6 @@
 # Hi there, I'm Elrich! 👋
 
-![Header](./header.png)
+![Header](./your-header-image-name.png)
 
 I'm a passionate developer with a keen interest in building innovative solutions. Welcome to my GitHub profile!
 
