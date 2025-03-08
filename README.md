@@ -15,8 +15,6 @@ I'm a passionate developer with a keen interest in building innovative solutions
 
 ## 📈 GitHub Stats
 
-![Elrich's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Elrich-Chen&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Elrich-Chen&layout=compact&theme=radical)
 
 ## 🏆 Achievements
