@@ -1,4 +1,4 @@
-# Hi there, I'm Elrich! 👋
+## Hi there, I'm Elrich! 👋
 
 ![Header](./github-header-image-2.png)
 
@@ -16,10 +16,6 @@ I'm a passionate developer with a keen interest in building innovative solutions
 ## 📈 GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Elrich-Chen&layout=compact&theme=radical)
-
-## 🏆 Achievements
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Elrich-Chen&theme=onedark)
 
 ## 📫 Connect with Me
 
