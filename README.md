@@ -1,8 +1,6 @@
 ## Hi there, I'm Elrich! 👋
 
-![Header](./github-header-image-2.png)
-
-I'm a passionate developer with a keen interest in building innovative solutions. Welcome to my GitHub profile!
+I'm a developer with a curious personality. Welcome to my GitHub profile!
 
 ## 🔧 Technologies & Tools
 
