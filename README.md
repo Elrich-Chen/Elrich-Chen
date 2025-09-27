@@ -18,4 +18,4 @@ I'm a developer with a curious personality. Welcome to my GitHub profile!
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/elrich-chen-188702304)
-[![Personal Website](https://img.shields.io/badge/-Website-FF7139?logo=firefox&logoColor=white&style=flat-square)](https://elrich-chen.github.io/portfolio/)
+[![Personal Website](https://img.shields.io/badge/-Website-FF7139?logo=firefox&logoColor=white&style=flat-square)](https://elrichchen.com)
