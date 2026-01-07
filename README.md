@@ -5,8 +5,9 @@ I'm a developer with a passion for shipping products. Welcome to my GitHub!
 ## 👨‍💻 Summary of Qualifications
 
 - 🎓 **Education:** 2B Computer Science student at the **University of Waterloo** with avg of 93.8 (Transferred from **Queen's University** with a 4.0 GPA equivalent).
-- 💼 **Experience:** 2 professional experiences in software engineering and AI training, including work as a Video Understanding Expert.
+- 💼 **Experience:** 3 professional experiences in software engineering and AI training, including work as a Video Understanding Expert.
 - 🚀 **Client Success:** Proven track record of working directly with clients to build and deploy scalable full-stack applications.
+- 🏫 **Outreach & Mentorship:** Instructed 200+ students at the **University of Toronto Engineering Outreach Camp**, leading technical workshops.
 - 🛠 **Technical Depth:** 2+ years of experience with modern web stacks (Next.js, FastAPI, PostgreSQL) and systems programming (C/C++).
 
 ---
